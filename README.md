@@ -14,7 +14,7 @@ A simple and fun hand game between the player and the computer.
 ✂️ Scissors beat Paper  
 
 **Screenshot:**  
-![Rock Paper Scissors](./rockpaperscissors.png)
+<img src="./rockpaperscissors.png" alt="Rock Paper Scissors Screenshot" width="600"/>
 
 ---
 
@@ -22,7 +22,7 @@ A simple and fun hand game between the player and the computer.
 The classic two-player game of X’s and O’s — try to align three in a row to win!  
 
 **Screenshot:**  
-![Tic Tac Toe](./tictactoe.png)
+<img src="./tictactoe.png" alt="Tic Tac Toe Screenshot" width="600"/>
 
 ---
 
@@ -36,5 +36,3 @@ The classic two-player game of X’s and O’s — try to align three in a row t
 
 ## 🌐 View the Project  
 You can explore and play the games directly from this repository.  
-
----
