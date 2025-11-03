@@ -1,38 +1,58 @@
-# 🕹️ Mini Web Games  
+# 🎮 Mini Web Games
 
-This project contains **two classic browser-based games** — *Rock Paper Scissors* and *Tic Tac Toe*.  
-Built using **HTML, CSS, and JavaScript**, these games are lightweight, responsive, and fun to play!
+This project contains two fun and interactive browser-based mini-games built using **HTML**, **CSS**, and **JavaScript**.  
+Each game runs directly in your browser — no installation or downloads required!
 
 ---
 
-## 🎮 Games Included  
+## 🪨 Rock Paper Scissors
 
-### 1️⃣ Rock Paper Scissors  
-A simple and fun hand game between the player and the computer.  
-🪨 Rock beats Scissors  
-📄 Paper beats Rock  
-✂️ Scissors beat Paper  
+Challenge the computer in a simple and classic game of **Rock, Paper, Scissors**.  
+The computer randomly chooses one option, and your score updates based on the result.
+
+**Features:**
+- Interactive UI with hand icons 🖐✊✌️  
+- Dynamic score counter for player and computer  
+- Displays who wins each round  
 
 **Screenshot:**  
-<img src="./rockpaperscissors.png" alt="Rock Paper Scissors Screenshot" width="600"/>
+![Rock Paper Scissors](./rock-paper-scissors/rockpaperscissors.png)
 
 ---
 
-### 2️⃣ Tic Tac Toe  
-The classic two-player game of X’s and O’s — try to align three in a row to win!  
+## ❌ Tic Tac Toe
+
+The classic **two-player game** of X’s and O’s — try to align three in a row to win!  
+You can play against another person on the same device.
+
+**Features:**
+- Clean and simple board layout  
+- Displays the winner or draw message  
+- “New Game” and “Reset” buttons for replay  
 
 **Screenshot:**  
-<img src="./tictactoe.png" alt="Tic Tac Toe Screenshot" width="600"/>
+![Tic Tac Toe](./tic-tac-toe/tictactoe.png)
 
 ---
 
-## 💡 Features  
-- 🎨 Clean and responsive design  
-- ⚡ Smooth game logic using JavaScript  
-- 🧠 Computer opponent in Rock Paper Scissors  
-- 🔁 Reset and new game options in Tic Tac Toe  
+## 🧩 Tech Stack
+- **HTML5** – Game structure and layout  
+- **CSS3** – Styling and visual design  
+- **JavaScript (Vanilla JS)** – Game logic and interactivity  
 
 ---
 
-## 🌐 View the Project  
-You can explore and play the games directly from this repository.  
+## 💡 How to Run
+1. Open the folder for any game (`rock-paper-scissors` or `tic-tac-toe`).
+2. Double-click the `index.html` file to open it in your browser.
+3. Play and enjoy 🎉
+
+---
+
+## 🏁 Future Improvements
+- Add AI difficulty levels for Rock Paper Scissors  
+- Add a single-player computer mode for Tic Tac Toe  
+
+---
+
+⭐ **If you like this project, give it a star on GitHub!**
